@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRKaret.cpp.obj": [
+			"VRKaret.cpp.obj"
+		]
+	}
+}
